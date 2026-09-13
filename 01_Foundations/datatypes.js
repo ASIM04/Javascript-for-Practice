@@ -1,8 +1,16 @@
-let score = "50"
+let taste = 15
+console.log(typeof taste);
+taste = String(taste)
+console.log(typeof taste);
 
-console.log(typeof score);
-console.log(typeof(score));
 
-let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
+
+
+
+
+
+
+
+
+
 
